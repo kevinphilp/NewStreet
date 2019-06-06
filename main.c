@@ -10,7 +10,7 @@ typedef struct sentence_t {
 	char subject[12], object[12], sub_adjective[6], obj_adjective[6], preposition[6], verb[12];
 } sentence_t;
 
-//Some git testing, should remove this
+//Some git testing, should remove this, and now in gitahead
 
 //========== Rooms
 
